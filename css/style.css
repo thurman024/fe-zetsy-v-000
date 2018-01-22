@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 h1 {font-family: Baskerville;}
 
-img {
+.press {
 	border-width: 10px;
 	border-color: gray;
 }
