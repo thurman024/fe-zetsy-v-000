@@ -21,7 +21,10 @@ body {
 /* Write all remaining styles here */
 h1 {font-family: Baskerville;}
 
-
+img {
+	border-width: 3px;
+	border-color: gray;
+}
 
 footer {
 	position: relative;
