@@ -32,7 +32,7 @@ img {
 	border-color: gray;
 }
 
-.press a:hover {
+.press img:hover {
 	border-style: solid;
 	border-width: 5px;
 	border-color: black;
