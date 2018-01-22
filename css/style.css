@@ -21,6 +21,8 @@ body {
 /* Write all remaining styles here */
 h1 {font-family: Baskerville;}
 
+h2 {color: gray}
+
 .press {
 	border-width: 10px;
 	border-color: gray;
